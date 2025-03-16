@@ -5,7 +5,7 @@ Welcome to my Github! I'm passionate about research, data analysis, and contribu
 ### 💫 About Me:
 👩🏻‍🎓 Studying Data Analytics and Computational Social Sciences at University of Massachusetts Amerst
 
-🔭 Currently working on building my data analytics/research portfolio!
+🔭 Currently working on building my [data analytics/research portfolio](https://nimj34.github.io/)!
 
 🌱 Now learning about causal inference methods and advanced data-driven storytelling
 
@@ -32,3 +32,5 @@ Survey Design: Qualtrics, REDCap
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nimj34&icon=0&color=0)](https://visitcount.itsvg.in)
+
+Feel free to explore my repositories for additional details on my projects and contributions! Let's connect if you share similar interests in mental health, social science research, or data analysis. I'm always eager to collaborate and learn more about up-and-coming research in these fields.
