@@ -1,6 +1,6 @@
 # Hi, I'm Nikita👋
 
-Welcome to my Github! I'm passionate about research, data analysis, and contributing to various fields in the social sciences, and in particular the mental health field! 
+Welcome to my Github! I'm passionate about research, data analysis, and contributing to various fields in the social sciences! 
 
 ### 💫 About Me:
 👩🏻‍🎓 Studying Data Analytics and Computational Social Sciences at University of Massachusetts Amerst
